@@ -11,7 +11,7 @@ The **AI Multilingual Invoice & Bill Assistant** is a full-stack AI application 
 - 📤 Upload bills and invoices (PDF, Excel, CSV, TXT)
 - 💬 Ask natural-language questions about their documents (in any language)
 - 🧾 Automatically generate formatted, professional invoices
-- 🌍 Get responses in **10+ languages**
+- 🌍 Get responses in **10 languages**
 - 💱 Convert currency values using **live exchange rates**
 
 ---
@@ -146,7 +146,7 @@ Live exchange rates are fetched from the [Frankfurter API](https://www.frankfurt
 | Language | Language | Language |
 |---|---|---|
 | 🇬🇧 English | 🇮🇳 Hindi | 🇪🇸 Spanish |
-| 🇫🇷 French | 🇸🇦 Arabic |
+| 🇫🇷 French | 🇸🇦 Arabic | 🇧🇩 Bengali |
 | 🇧🇷 Portuguese | 🇷🇺 Russian | 🇯🇵 Japanese |
 | 🇨🇳 Mandarin Chinese | | |
 
@@ -168,17 +168,8 @@ Live exchange rates are fetched from the [Frankfurter API](https://www.frankfurt
 
 ---
 
-## 📸 Screenshots
 
-> *Upload a bill, ask questions, and generate invoices — all from one interface.*
 
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
 
 ## 👨‍💻 Author
 
