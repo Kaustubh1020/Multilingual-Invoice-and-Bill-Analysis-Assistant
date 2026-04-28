@@ -146,7 +146,7 @@ Live exchange rates are fetched from the [Frankfurter API](https://www.frankfurt
 | Language | Language | Language |
 |---|---|---|
 | 🇬🇧 English | 🇮🇳 Hindi | 🇪🇸 Spanish |
-| 🇫🇷 French | 🇸🇦 Arabic | 🇧🇩 Bengali |
+| 🇫🇷 French | 🇸🇦 Arabic |
 | 🇧🇷 Portuguese | 🇷🇺 Russian | 🇯🇵 Japanese |
 | 🇨🇳 Mandarin Chinese | | |
 
@@ -182,8 +182,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**Kaustubh** — [GitHub](https://github.com/Kaustubh1020)
+**Srivatsa Kaustubh Dussa** — [GitHub](https://github.com/Kaustubh1020)
 
 ---
-
-> ⭐ If you found this project useful, consider giving it a star!
